@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MathsExampleLibary</name>
+    </assembly>
+    <members>
+        <member name="M:MathsExampleLibary.main.Add(System.Double,System.Double)">
+            <summary>
+            
+            In summarry this will perform addition towards the value
+            
+            </summary>
+            
+        </member>
+        <member name="M:MathsExampleLibary.main.Subtract(System.Double,System.Double)">
+            <summary>
+            This will take away the value you.
+            </summary>
+            <param name="value1"></param>
+            <param name="value2"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
